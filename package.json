@@ -8,7 +8,7 @@
     "@styled-system/prop-types": "^5.1.2",
     "babel-plugin-styled-components": "^1.10.6",
     "faker": "^4.1.0",
-    "gatsby": "^2.17.11",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
     "gatsby-plugin-offline": "^3.0.19",
